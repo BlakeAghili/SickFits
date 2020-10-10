@@ -2,207 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="887ad60e-d374-4630-bbeb-2b9c3d5d5115" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/08a91e4b1e664bb4adee.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/0c99c7c2d6956b0b9b97.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/0e4b4827e366fc868a34.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/0fa7303f84adeefb95d8.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/27b3b5ee100fc5a52a82.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/2f0f8713cbbcc49353a7.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/33fdf4bb0ddec775ff36.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/574d31a55d0ee618a23c.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/6cd37065def045d8a19f.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/80a78c64c7afbc8b820f.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/ac6f1fb7f5ccd8c07dce.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/ae32195da5a6ad3dc3b7.hot-update.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.0e4b4827e366fc868a34.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.0e4b4827e366fc868a34.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.0fa7303f84adeefb95d8.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.0fa7303f84adeefb95d8.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.27b3b5ee100fc5a52a82.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.27b3b5ee100fc5a52a82.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.2f0f8713cbbcc49353a7.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.2f0f8713cbbcc49353a7.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.33fdf4bb0ddec775ff36.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.33fdf4bb0ddec775ff36.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.6cd37065def045d8a19f.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.6cd37065def045d8a19f.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.80a78c64c7afbc8b820f.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.80a78c64c7afbc8b820f.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.ac6f1fb7f5ccd8c07dce.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/_app.js.ac6f1fb7f5ccd8c07dce.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.574d31a55d0ee618a23c.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.574d31a55d0ee618a23c.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/sell.js.ae32195da5a6ad3dc3b7.hot-update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/sell.js.ae32195da5a6ad3dc3b7.hot-update.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/Meta.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components/Page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/react-loadable-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/react-loadable-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/_app.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/_app.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/index.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/sell.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/sell.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/sell.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/server/static/development/pages/sell.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/development/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/static/development/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/development/pages/_app.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/static/development/pages/_app.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/development/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/static/development/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/development/pages/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/static/development/pages/index.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/development/pages/sell.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/static/development/pages/sell.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/development/pages/sell.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/static/development/pages/sell.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/runtime/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/static/runtime/webpack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/runtime/webpack.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.next/static/runtime/webpack.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/0151ff760046c8488f09.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/0910a013a3e11eab55f3.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/10d7af7efa8b341ffbe6.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/12b74db183a65134a100.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/23caa0c458f40e377097.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/2a62138dd700bcbd6d79.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/42a1aaaf8ccabe313ef1.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/507ef5778d41afb26ecd.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/511747f968d105e32639.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/593136b312edabee381d.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/6155c1943e494b691922.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/725631478b05cf5cdaa0.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/7e1182162ce0f240ee8d.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/83781bee9e5d79849bed.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/9317beccfccfe5dac11a.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/ba87fdae2f69dd6d840f.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/ba8c20e2959582cd3abe.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/bc3f90ec865e6eb5e00a.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/e3426f2de6f138b2aff6.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/e82412a744004656b8fd.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/ead9ab446ea5c07f6422.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/f00804993bf0f03740c9.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/f0b4e232fae632d5e512.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/f9becf4ef02734c3a3bf.hot-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.2a62138dd700bcbd6d79.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.2a62138dd700bcbd6d79.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.42a1aaaf8ccabe313ef1.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.42a1aaaf8ccabe313ef1.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.593136b312edabee381d.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.593136b312edabee381d.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.6155c1943e494b691922.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.6155c1943e494b691922.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.bc3f90ec865e6eb5e00a.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.bc3f90ec865e6eb5e00a.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.e82412a744004656b8fd.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.e82412a744004656b8fd.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.ead9ab446ea5c07f6422.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/index.js.ead9ab446ea5c07f6422.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/sell.js.ba87fdae2f69dd6d840f.hot-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.next/static/webpack/static/development/pages/sell.js.ba87fdae2f69dd6d840f.hot-update.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0000" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0001" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0002" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0003" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0003" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0004" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0004" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0005" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0005" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0006" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0006" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0007" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0007" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0008" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0008" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0009" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0009" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0010" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0010" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0011" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0011" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0012" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0012" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0013" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0013" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0014" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0014" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0015" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0015" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0016" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0017" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0018" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0019" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0020" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0021" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0022" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0023" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0024" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/assets-parity/log0025" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0000" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0001" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0002" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0003" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0003" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0004" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0004" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0005" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0005" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0006" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0006" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0007" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0007" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0008" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0008" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0009" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0009" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0010" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0010" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0011" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0011" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0012" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0012" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0013" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0013" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0014" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0014" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0015" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0015" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0016" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0017" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0018" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0019" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0020" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0021" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0022" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0023" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0024" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/md5/log0025" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0000" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0001" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0002" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0003" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0003" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0004" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0004" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0005" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0005" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0006" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0006" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0007" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0007" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0008" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0008" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0009" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0009" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0010" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0010" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0011" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0011" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0012" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0012" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0013" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0013" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0014" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0014" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0015" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0015" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0016" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0017" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0018" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0019" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0020" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0021" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0022" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0023" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0024" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/e5a00840d3e535e0675f55fc91a1bc46cf11d0ce33ed0b5a1b5e23b30fbee2e7/module/log0025" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0000" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0001" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0002" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0003" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0003" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0004" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0004" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0005" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0005" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0006" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0006" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0007" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0007" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0008" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0008" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0009" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0009" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0010" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0010" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0011" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0011" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0012" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0012" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0013" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0013" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0014" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0014" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0015" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0015" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0016" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0017" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0018" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0019" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0020" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0021" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0022" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0023" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0024" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0025" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0026" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/hard-source/f615e69499fd375ad9be2a94a8f57e808e5a43c602db6dd47e31bcb01c645f7c/assets-parity/log0027" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/sell.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/sell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Page.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Page.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602367809150</updated>
-      <workItem from="1602367810173" duration="5364000" />
+      <workItem from="1602367810173" duration="5591000" />
     </task>
     <task id="LOCAL-00001" summary="Starter Files. Boilerplate stuff">
       <created>1602368256578</created>
@@ -268,28 +68,36 @@
       <option name="project" value="LOCAL" />
       <updated>1602370294966</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Saturday!">
+      <created>1602373733819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602373733819</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Starter Files. Boilerplate stuff" />
     <MESSAGE value="LINK from Next.js to do HREF with HTTP Push State instead of a Redirect. Cool!" />
-    <option name="LAST_COMMIT_MESSAGE" value="LINK from Next.js to do HREF with HTTP Push State instead of a Redirect. Cool!" />
+    <MESSAGE value="Saturday!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Saturday!" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="527" y="65" key="CommitChangelistDialog2" timestamp="1602370204914">
+    <state x="527" y="65" key="CommitChangelistDialog2" timestamp="1602373732857">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="527" y="65" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1602370204914" />
-    <state x="520" y="311" key="Vcs.Push.Dialog.v2" timestamp="1602370749012">
+    <state x="527" y="65" key="CommitChangelistDialog2/0.23.1920.1121@0.23.1920.1121" timestamp="1602373732857" />
+    <state x="520" y="311" key="Vcs.Push.Dialog.v2" timestamp="1602373735699">
       <screen x="0" y="23" width="1920" height="1121" />
     </state>
-    <state x="520" y="311" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1602370749012" />
+    <state x="520" y="311" key="Vcs.Push.Dialog.v2/0.23.1920.1121@0.23.1920.1121" timestamp="1602373735699" />
   </component>
 </project>
