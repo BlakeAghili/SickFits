@@ -31,7 +31,7 @@
 /******/
 /******/ 		// run deferred modules when all chunks ready
 /******/ 		return checkDeferredModules();
-/******/ 	};
+/******/ 	}
 /******/ 	function checkDeferredModules() {
 /******/ 		var result;
 /******/ 		for(var i = 0; i < deferredModules.length; i++) {
@@ -64,7 +64,7 @@
 /******/ 		var script = document.createElement("script");
 /******/ 		script.charset = "utf-8";
 /******/ 		script.src = __webpack_require__.p + "static/webpack/" + chunkId + "." + hotCurrentHash + ".hot-update.js";
-/******/ 		;
+/******/
 /******/ 		head.appendChild(script);
 /******/ 	}
 /******/
@@ -113,7 +113,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "448f931c1f6cca1f5307";
+/******/ 	var hotCurrentHash = "5b78289768541ef35d75";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
